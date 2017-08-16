@@ -8,7 +8,7 @@ using System.Web.Routing;
 
 namespace WebApplication1
 {
-    public class MvcApplication : System.Web.HttpApplication
+    public class MvcApplication2s : System.Web.HttpApplication
     {
         protected void Application_Start()
         {
