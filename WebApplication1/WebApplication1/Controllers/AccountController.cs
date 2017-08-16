@@ -12,7 +12,7 @@ using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
 {
-    public class AccountController : Controller
+    public class AccountController2 : Controller
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
